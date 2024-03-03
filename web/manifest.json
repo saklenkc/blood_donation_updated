@@ -1,6 +1,6 @@
 {
-    "name": "flutter_firebase",
-    "short_name": "flutter_firebase",
+    "name": "chat_app_flutter_three",
+    "short_name": "chat_app_flutter_three",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

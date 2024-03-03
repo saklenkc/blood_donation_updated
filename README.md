@@ -1,4 +1,4 @@
-# flutter_firebase
+# chat_app_flutter_three
 
 A new Flutter project.
 

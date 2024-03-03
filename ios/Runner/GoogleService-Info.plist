@@ -2,22 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CLIENT_ID</key>
-	<string>540215271818-3jpu0ibjl06r0qk7k4p0d2s1aiufjct9.apps.googleusercontent.com</string>
-	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.540215271818-3jpu0ibjl06r0qk7k4p0d2s1aiufjct9</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBGNwXR0fx5RbqL2ZL3VYzMtqqDx84LwsM</string>
+	<string>AIzaSyBK5Asl0-ht02KKoBYW0aBiJapOWrurQ_4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>540215271818</string>
+	<string>886449196259</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.flutterFirebase</string>
+	<string>com.example.chatAppFlutterThree</string>
 	<key>PROJECT_ID</key>
-	<string>flutter-firebase-9c136</string>
+	<string>fir-second-project-b6cd4</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flutter-firebase-9c136.appspot.com</string>
+	<string>fir-second-project-b6cd4.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:540215271818:ios:74a50b3fd0ffb212862873</string>
+	<string>1:886449196259:ios:269ade68479a0d119689d6</string>
 </dict>
 </plist>
